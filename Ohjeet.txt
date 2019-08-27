@@ -1,0 +1,18 @@
+Kopioi Y:\DevOps\Harjoitus\Jenkins kansio D:\DevOps kansioon
+
+Avaa komentorivi ja siirry D:\DevOps\Jenkins kansioon
+
+vagrant up
+
+Kun näet
+"Jenkins initial setup is required. An admin user has been created and a password generated.
+Please use the following password to proceed to installation:"
+tekstin siirry localhost:8080 sivustolle.
+
+Asenna jenkins käyttäen suggested plugineja. Jos tulee virheitä, paina retry.
+
+Määritä käyttäjätunnus ja salasana.
+
+Kun jenkins on käynnistynyt "Open Blue Ocean"
+
+
